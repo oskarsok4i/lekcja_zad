@@ -6,3 +6,4 @@ janek adam
 
 oj oskar nie ladnie ze cie widzialem wczoraj z kolega jak szles z nim za reke, widze ze cieplo w rodzinie zostaje
 pies cie jebał
+ https://oskarsok4i.github.io/lekcja_zad/
